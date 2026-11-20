@@ -1,2 +1,2 @@
-*.k linguist-language=KMI
+*.k linguist-language=c++
 *.kmi linguist-detectable=false
