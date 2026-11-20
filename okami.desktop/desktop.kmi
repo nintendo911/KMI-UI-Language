@@ -1,0 +1,13 @@
+.kmi
+#link "icon/search.k"
+#link "cursor/cursor.k"
+#link "window/window.k"
+#link "launcher/launcher.k"
+#link "taskbar/taskbar.k"
+
+state {
+    wallpaper_path: "/Users/wallpaper/img.png"
+}
+
+printf_div{id: "desktop_shell", layout: "absolute", x: 0, y: 0, w: "fill", h: "fill", background: "transparent"}
+end
